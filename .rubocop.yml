@@ -1,0 +1,62 @@
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/Semicolon:
+  Enabled: false
+
+Layout/SpaceInsideBlockBraces:
+  Enabled: true
+
+Metrics/AbcSize:
+  Enabled: false
+
+Metrics/CyclomaticComplexity:
+  Enabled: false
+
+Metrics/MethodLength:
+  Enabled: false
+
+Metrics/PerceivedComplexity:
+  Enabled: false
+
+Metrics/BlockNesting:
+  Enabled: false
+
+Style/StringConcatenation:
+  Enabled: false
+
+Naming/MethodParameterName:
+  Enabled: false
+
+Lint/ShadowingOuterLocalVariable:
+  Enabled: false
+
+Style/IfUnlessModifier:
+  Enabled: false
+
+Metrics/BlockLength:
+  Enabled: false
+
+Style/GuardClause:
+  Enabled: false
+
+Naming/MethodName:
+  Enabled: false
+
+Style/WhileUntilModifier:
+  Enabled: false
+
+Style/NegatedIf:
+  Enabled: false
+
+Metrics/ClassLength:
+  Enabled: false
+
+Style/RaiseArgs:
+  Enabled: false
